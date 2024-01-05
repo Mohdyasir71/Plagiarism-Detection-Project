@@ -1,0 +1,16 @@
+﻿.left
+{
+    width:600px;
+    float:left;
+    height:500px;   
+}
+.right
+{
+    width:300px;
+    float:left;
+    height:500px;   
+}
+.style1
+{
+    border-radius:10px 10px 10px 10px;
+}
